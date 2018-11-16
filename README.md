@@ -16,4 +16,8 @@ $ rustup default nightly
 
 ### Coffeecues
 
+To run the server locally,
 
+```
+$ cargo run
+```
