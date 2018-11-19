@@ -1,5 +1,7 @@
 # Coffeecues
 
+![](https://66.media.tumblr.com/tumblr_mash62P7pW1ro71p1o1_500.gif)
+
 Coffeecues is an web server conforming to RFC 2324.
 
 ## Development Setup
